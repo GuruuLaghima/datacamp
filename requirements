@@ -122,4 +122,4 @@ wordcloud==1.9.3
 xgboost==2.0.2
 y-py==0.6.2
 ypy-websocket==0.12.4
-plotly == 5.9.0
+plotly==5.9.0
